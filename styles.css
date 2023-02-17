@@ -1,10 +1,13 @@
 .block{
     text-align: center;
 }
-.title{
+h1, h2{
     font-family: 'Courier New', Courier, monospace;
     color: rgb(235, 178, 109);
-    font-weight: 800;
+    font-weight: 500;
+}
+.title.principal{
+    font-size: 40px;
 }
 body{
     background-color: antiquewhite;
@@ -13,4 +16,10 @@ body{
     font-size: 18px;
     font-family: fantasy;
     color: rgb(212, 184, 141);
+}
+p, li{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;   
+}
+.recipe-name{
+    color: rgb(155, 177, 177);
 }
