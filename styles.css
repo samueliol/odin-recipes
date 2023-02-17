@@ -1,0 +1,16 @@
+.block{
+    text-align: center;
+}
+.title{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(235, 178, 109);
+    font-weight: 800;
+}
+body{
+    background-color: antiquewhite;
+}
+.list{
+    font-size: 18px;
+    font-family: fantasy;
+    color: rgb(212, 184, 141);
+}
